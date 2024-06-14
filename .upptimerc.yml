@@ -3,12 +3,18 @@ owner: conuti-das # Your GitHub organization or username, where this repository 
 repo: status-lfrcs # The name of this repository
 
 sites:
-  - name: $TEMPLATER_NAME
+  - name: MPS | TEMPLATER
     url: $TEMPLATER_URL
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: MPS | TASKER
+    url: $TASKER_URL
+  - name: MPS | DATAKEEPER
+    url: $DATAKEEPER_URL
+  - name: MPS | DATAKEEPER API SEARCH
+    url: $DATAKEEPER_SEARCH_URL
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404    
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
