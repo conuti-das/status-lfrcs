@@ -30,7 +30,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status-lfrcs
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://conuti.de/wp-content/uploads/2023/05/CONUTI-MACO-APP-Icon_blau_gruen-300x284.png
   name: LIEF RCS Stage
   introTitle: "**LIEF** Status"
   introMessage: Components status overiew page
