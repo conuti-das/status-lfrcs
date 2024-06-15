@@ -33,7 +33,7 @@ sites:
     url: $MPS_CAMUNDA     
   - name: MPS - DATAKEEPER
     url: $DATAKEEPER_URL
-  - name: MPS - DATAKEEPER APi PROCESS HISTORY
+  - name: MPS - DATAKEEPER API PROCESS HISTORY
     url: $DATAKEEPER_PH_URL    
   - name: MPS - DATAKEEPER API SEARCH
     url: $DATAKEEPER_SEARCH_URL
@@ -44,7 +44,10 @@ sites:
   - name: MPS - NIFI
     url: $MPS_NIFI
   - name: MPS - TASKER
-    url: $TASKER_URL    
+    url: $TASKER_URL  
+  - name: MPS - TESTPROCESS
+    url: $TESTPROCESS_URL
+    __dangerous__body_down_if_text_missing: '"status":"up"'
   - name: MPS - TEMPLATER
     url: $TEMPLATER_URL
  
