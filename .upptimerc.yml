@@ -3,27 +3,52 @@ owner: conuti-das # Your GitHub organization or username, where this repository 
 repo: status-lfrcs # The name of this repository
 
 sites:
-  - name: MPS - TEMPLATER
-    url: $TEMPLATER_URL
-  - name: MPS - TASKER
-    url: $TASKER_URL
+  - name: CC - API GATEWAY
+    url: $GATEWAY_URL  
+  - name: CC - API PORTAL
+    url: $PORTAL_URL  
+  - name: CC - API MANAGEMENT
+    url: $APIMANAGEMENT_URL  
+  - name: CC - BACKOFFICE API
+    url: $BACKOFFICE_API
+  - name: CC - BACKOFFICE WEB
+    url: $BACKOFFICE_WEB
+  - name: CC - KEYCLOAK
+    url: $KEYCLOAK_URL
+  - name: CC - NOCODB API
+    url: $NOCODB_API  
+  - name: CC - PMON API
+    url: $PMON_URL
+  - name: CC - RABBITMQ MANAMGEMENT
+    url: $RABBITMQ_MANAGEMENT    
+  - name: MCS - ADMIN UI
+    url: $MCS_ADMIN
+  - name: MCS - PORTAL UI
+    url: $MCS_PORTAL
+  - name: MCS - BUILD INFO UI
+    url: $MCS_BUILD_INFO
+  - name: MCS - UI
+    url: $MCS_UI
+  - name: MPS - CAMUNDA
+    url: $MPS_CAMUNDA     
   - name: MPS - DATAKEEPER
     url: $DATAKEEPER_URL
+  - name: MPS - DATAKEEPER APi PROCESS HISTORY
+    url: $DATAKEEPER_PH_URL    
   - name: MPS - DATAKEEPER API SEARCH
     url: $DATAKEEPER_SEARCH_URL
     expectedStatusCodes:
       - 200
       - 201
-      - 404    
-  - name: CC - NOCODB API
-    url: $NOCODB_API          
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+      - 404         
+  - name: MPS - NIFI
+    url: $MPS_NIFI
+  - name: MPS - TASKER
+    url: $TASKER_URL    
+  - name: MPS - TEMPLATER
+    url: $TEMPLATER_URL
+ 
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
