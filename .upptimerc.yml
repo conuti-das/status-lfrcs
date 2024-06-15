@@ -61,7 +61,7 @@ status-website:
   introMessage: Components status overiew page
   navbar:
     - title: Status
-      href: /
+      href: /status-lfrcs
     - title: Backoffice
       href: https://dev.lief.macoapp.de
 
