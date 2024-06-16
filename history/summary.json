@@ -149,18 +149,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.lief.macoapp.de.ico",
     "slug": "cc-pmon-api-2",
     "status": "up",
-    "uptime": "3.94%",
-    "uptimeDay": "3.94%",
-    "uptimeWeek": "3.94%",
-    "uptimeMonth": "3.94%",
-    "uptimeYear": "3.94%",
+    "uptime": "5.33%",
+    "uptimeDay": "5.33%",
+    "uptimeWeek": "5.33%",
+    "uptimeMonth": "5.33%",
+    "uptimeYear": "5.33%",
     "time": 846,
     "timeDay": 846,
     "timeWeek": 846,
     "timeMonth": 846,
     "timeYear": 846,
     "dailyMinutesDown": {
-      "2024-06-16": 456
+      "2024-06-16": 450
     }
   },
   {
