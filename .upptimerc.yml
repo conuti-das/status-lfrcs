@@ -32,15 +32,15 @@ sites:
   - name: MPS - CAMUNDA
     url: $MPS_CAMUNDA     
   - name: MPS - DATAKEEPER
-    url: $DATAKEEPER_URL
-  - name: MPS - DATAKEEPER API PROCESS HISTORY
-    url: $DATAKEEPER_PH_URL    
+    url: $DATAKEEPER_URL   
   - name: MPS - DATAKEEPER API SEARCH
     url: $DATAKEEPER_SEARCH_URL
     expectedStatusCodes:
       - 200
       - 201
       - 404         
+  - name: MPS - DK PROCESS HISTORY 
+    url: $DATAKEEPER_PH_URL      
   - name: MPS - NIFI
     url: $MPS_NIFI
   - name: MPS - TASKER
