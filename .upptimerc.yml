@@ -19,8 +19,8 @@ sites:
     url: $NOCODB_API  
   - name: CC - PMON API
     url: $PMON_URL
-  - name: CC - PMON API2
-    url: https://dev.lief.macoapp.de
+  - name: CC - BACKOFFICE POC
+    url: https://dev.lief.macoapp.de2
   - name: CC - RABBITMQ MANAMGEMENT
     url: $RABBITMQ_MANAGEMENT    
   - name: MCS - ADMIN UI
