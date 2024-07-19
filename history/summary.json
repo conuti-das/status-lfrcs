@@ -132,19 +132,19 @@
     "url": "$PMON_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cc-pmon-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 29579,
-    "timeDay": 29607,
-    "timeWeek": 29633,
-    "timeMonth": 29592,
+    "timeDay": 29588,
+    "timeWeek": 29625,
+    "timeMonth": 29591,
     "timeYear": 29579,
     "dailyMinutesDown": {
-      "2024-07-19": 2
+      "2024-07-19": 24
     }
   },
   {
