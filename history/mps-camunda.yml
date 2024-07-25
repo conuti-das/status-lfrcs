@@ -1,7 +1,7 @@
 url: $MPS_CAMUNDA
-status: down
-code: 500
-responseTime: 5613
-lastUpdated: 2024-07-25T22:15:54.359Z
+status: up
+code: 200
+responseTime: 369
+lastUpdated: 2024-07-25T22:26:02.660Z
 startTime: 2024-06-15T08:44:05.844Z
 generator: Upptime <https://github.com/upptime/upptime>
