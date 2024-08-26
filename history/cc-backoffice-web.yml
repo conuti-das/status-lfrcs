@@ -1,7 +1,7 @@
 url: $BACKOFFICE_WEB
-status: up
-code: 200
-responseTime: 347
-lastUpdated: 2024-08-25T23:02:29.045Z
+status: down
+code: 503
+responseTime: 496
+lastUpdated: 2024-08-26T13:51:27.855Z
 startTime: 2024-06-15T08:43:29.529Z
 generator: Upptime <https://github.com/upptime/upptime>
