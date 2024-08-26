@@ -78,9 +78,9 @@
     "slug": "cc-backoffice-web",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "79.25%",
-    "uptimeWeek": "97.04%",
-    "uptimeMonth": "99.32%",
+    "uptimeDay": "78.83%",
+    "uptimeWeek": "96.98%",
+    "uptimeMonth": "99.30%",
     "uptimeYear": "99.71%",
     "time": 441,
     "timeDay": 422,
@@ -88,7 +88,7 @@
     "timeMonth": 445,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2024-08-26": 299
+      "2024-08-26": 305
     }
   },
   {
@@ -184,19 +184,19 @@
     "url": "$RABBITMQ_MANAGEMENT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cc-rabbitmq-manamgement",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1136,
-    "timeDay": 7935,
-    "timeWeek": 2359,
-    "timeMonth": 1365,
-    "timeYear": 1136,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1128,
+    "timeDay": 5455,
+    "timeWeek": 2152,
+    "timeMonth": 1339,
+    "timeYear": 1128,
     "dailyMinutesDown": {
-      "2024-08-26": 0
+      "2024-08-26": 6
     }
   },
   {
@@ -280,9 +280,9 @@
     "slug": "mps-camunda",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "95.13%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "94.71%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.93%",
     "time": 492,
     "timeDay": 443,
@@ -290,7 +290,7 @@
     "timeMonth": 451,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2024-08-26": 70
+      "2024-08-26": 76
     }
   },
   {
@@ -390,9 +390,9 @@
     "slug": "mps-testprocess",
     "status": "down",
     "uptime": "97.27%",
-    "uptimeDay": "14.50%",
-    "uptimeWeek": "87.79%",
-    "uptimeMonth": "97.00%",
+    "uptimeDay": "14.08%",
+    "uptimeWeek": "87.73%",
+    "uptimeMonth": "96.99%",
     "uptimeYear": "97.27%",
     "time": 707,
     "timeDay": 545,
@@ -400,7 +400,7 @@
     "timeMonth": 681,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2024-08-26": 1130,
+      "2024-08-26": 1136,
       "2024-08-25": 101,
       "2024-08-12": 23,
       "2024-08-05": 15,
