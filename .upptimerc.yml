@@ -43,6 +43,8 @@ sites:
       - 404
   - name: MPS - DK PROCESS HISTORY
     url: $DATAKEEPER_PH_URL
+  - name: MPS - SAP D1V KONNEKTOR TEST
+    url: $KONNEKTOR_URL
   - name: MPS - NIFI
     url: $MPS_NIFI
   - name: MPS - TASKER
