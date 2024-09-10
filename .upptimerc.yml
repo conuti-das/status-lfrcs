@@ -45,6 +45,8 @@ sites:
     url: $DATAKEEPER_PH_URL
   - name: MPS - SAP D1V KONNEKTOR TEST
     url: $KONNEKTOR_URL
+  - name: MPS - PROCESS HISTORY
+    url: $PROCESS_HSITORY_URL      
   - name: MPS - NIFI
     url: $MPS_NIFI
   - name: MPS - TASKER
