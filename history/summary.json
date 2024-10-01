@@ -13,7 +13,7 @@
     "time": 458,
     "timeDay": 378,
     "timeWeek": 503,
-    "timeMonth": 481,
+    "timeMonth": 485,
     "timeYear": 458,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 460,
     "timeDay": 366,
     "timeWeek": 493,
-    "timeMonth": 469,
+    "timeMonth": 472,
     "timeYear": 460,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 151,
     "timeDay": 187,
     "timeWeek": 254,
-    "timeMonth": 235,
+    "timeMonth": 237,
     "timeYear": 151,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 443,
     "timeDay": 384,
     "timeWeek": 474,
-    "timeMonth": 451,
+    "timeMonth": 454,
     "timeYear": 443,
     "dailyMinutesDown": {
       "2024-08-27": 501,
@@ -106,7 +106,7 @@
     "time": 436,
     "timeDay": 601,
     "timeWeek": 509,
-    "timeMonth": 454,
+    "timeMonth": 456,
     "timeYear": 436,
     "dailyMinutesDown": {}
   },
@@ -124,7 +124,7 @@
     "time": 231,
     "timeDay": 184,
     "timeWeek": 259,
-    "timeMonth": 235,
+    "timeMonth": 237,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2024-06-18": 25
@@ -144,7 +144,7 @@
     "time": 12419,
     "timeDay": 448,
     "timeWeek": 545,
-    "timeMonth": 514,
+    "timeMonth": 515,
     "timeYear": 12419,
     "dailyMinutesDown": {
       "2024-07-25": 298,
@@ -170,7 +170,7 @@
     "time": 701,
     "timeDay": 682,
     "timeWeek": 735,
-    "timeMonth": 692,
+    "timeMonth": 695,
     "timeYear": 701,
     "dailyMinutesDown": {
       "2024-09-23": 24,
@@ -196,7 +196,7 @@
     "time": 1142,
     "timeDay": 376,
     "timeWeek": 2137,
-    "timeMonth": 1314,
+    "timeMonth": 1335,
     "timeYear": 1142,
     "dailyMinutesDown": {
       "2024-09-27": 47
@@ -216,7 +216,7 @@
     "time": 279,
     "timeDay": 297,
     "timeWeek": 402,
-    "timeMonth": 374,
+    "timeMonth": 376,
     "timeYear": 279,
     "dailyMinutesDown": {
       "2024-06-15": 8
@@ -254,7 +254,7 @@
     "time": 526,
     "timeDay": 447,
     "timeWeek": 579,
-    "timeMonth": 520,
+    "timeMonth": 524,
     "timeYear": 526,
     "dailyMinutesDown": {}
   },
@@ -290,7 +290,7 @@
     "time": 474,
     "timeDay": 422,
     "timeWeek": 478,
-    "timeMonth": 440,
+    "timeMonth": 441,
     "timeYear": 474,
     "dailyMinutesDown": {
       "2024-08-27": 501,
@@ -311,7 +311,7 @@
     "time": 416,
     "timeDay": 383,
     "timeWeek": 456,
-    "timeMonth": 426,
+    "timeMonth": 429,
     "timeYear": 416,
     "dailyMinutesDown": {}
   },
@@ -329,7 +329,7 @@
     "time": 128,
     "timeDay": 106,
     "timeWeek": 141,
-    "timeMonth": 131,
+    "timeMonth": 132,
     "timeYear": 128,
     "dailyMinutesDown": {}
   },
@@ -347,7 +347,7 @@
     "time": 396,
     "timeDay": 327,
     "timeWeek": 429,
-    "timeMonth": 399,
+    "timeMonth": 401,
     "timeYear": 396,
     "dailyMinutesDown": {}
   },
@@ -357,18 +357,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mps-sap-d1-v-konnektor-test",
     "status": "up",
-    "uptime": "77.22%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "81.48%",
-    "uptimeYear": "77.22%",
+    "uptime": "77.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "81.49%",
+    "uptimeYear": "77.25%",
     "time": 4888,
     "timeDay": 6687,
     "timeWeek": 5270,
-    "timeMonth": 4831,
+    "timeMonth": 4859,
     "timeYear": 4888,
     "dailyMinutesDown": {
-      "2024-09-30": 6,
       "2024-09-27": 47,
       "2024-09-25": 30,
       "2024-09-24": 59,
@@ -423,7 +422,7 @@
     "time": 1015,
     "timeDay": 913,
     "timeWeek": 1108,
-    "timeMonth": 1019,
+    "timeMonth": 1025,
     "timeYear": 1015,
     "dailyMinutesDown": {}
   },
@@ -441,7 +440,7 @@
     "time": 3092,
     "timeDay": 400,
     "timeWeek": 489,
-    "timeMonth": 456,
+    "timeMonth": 457,
     "timeYear": 3092,
     "dailyMinutesDown": {}
   },
@@ -459,7 +458,7 @@
     "time": 716,
     "timeDay": 565,
     "timeWeek": 725,
-    "timeMonth": 726,
+    "timeMonth": 725,
     "timeYear": 716,
     "dailyMinutesDown": {
       "2024-09-23": 144,
@@ -498,7 +497,7 @@
     "time": 425,
     "timeDay": 386,
     "timeWeek": 478,
-    "timeMonth": 426,
+    "timeMonth": 427,
     "timeYear": 425,
     "dailyMinutesDown": {
       "2024-08-27": 111
