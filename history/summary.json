@@ -455,17 +455,17 @@
     "url": "$TESTPROCESS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mps-testprocess",
-    "status": "up",
-    "uptime": "95.07%",
-    "uptimeDay": "10.59%",
-    "uptimeWeek": "32.63%",
-    "uptimeMonth": "81.48%",
-    "uptimeYear": "95.07%",
-    "time": 706,
-    "timeDay": 695,
-    "timeWeek": 666,
-    "timeMonth": 705,
-    "timeYear": 706,
+    "status": "down",
+    "uptime": "95.08%",
+    "uptimeDay": "11.09%",
+    "uptimeWeek": "32.62%",
+    "uptimeMonth": "81.54%",
+    "uptimeYear": "95.08%",
+    "time": 705,
+    "timeDay": 689,
+    "timeWeek": 665,
+    "timeMonth": 704,
+    "timeYear": 705,
     "dailyMinutesDown": {
       "2024-10-07": 1136,
       "2024-10-06": 1231,
@@ -477,8 +477,7 @@
       "2024-09-19": 213,
       "2024-09-18": 22,
       "2024-09-16": 290,
-      "2024-09-15": 651,
-      "2024-09-14": 4
+      "2024-09-15": 631
     }
   },
   {
