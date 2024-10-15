@@ -343,9 +343,9 @@
     "slug": "mps-dk-process-history",
     "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "57.42%",
-    "uptimeWeek": "93.92%",
-    "uptimeMonth": "98.60%",
+    "uptimeDay": "56.90%",
+    "uptimeWeek": "93.84%",
+    "uptimeMonth": "98.58%",
     "uptimeYear": "99.65%",
     "time": 391,
     "timeDay": 166,
@@ -353,7 +353,7 @@
     "timeMonth": 382,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2024-10-15": 613
+      "2024-10-15": 621
     }
   },
   {
@@ -362,18 +362,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mps-sap-d1-v-konnektor-test",
     "status": "down",
-    "uptime": "73.01%",
+    "uptime": "73.00%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "23.49%",
-    "uptimeMonth": "69.22%",
-    "uptimeYear": "73.01%",
+    "uptimeWeek": "23.42%",
+    "uptimeMonth": "69.20%",
+    "uptimeYear": "73.00%",
     "time": 4786,
     "timeDay": 2094,
     "timeWeek": 4108,
     "timeMonth": 5077,
     "timeYear": 4786,
     "dailyMinutesDown": {
-      "2024-10-15": 1407,
+      "2024-10-15": 1414,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
@@ -464,16 +464,16 @@
     "url": "$TESTPROCESS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mps-testprocess",
-    "status": "up",
-    "uptime": "94.05%",
-    "uptimeDay": "7.10%",
-    "uptimeWeek": "10.92%",
-    "uptimeMonth": "76.08%",
-    "uptimeYear": "94.05%",
+    "status": "down",
+    "uptime": "94.08%",
+    "uptimeDay": "7.60%",
+    "uptimeWeek": "10.99%",
+    "uptimeMonth": "76.20%",
+    "uptimeYear": "94.08%",
     "time": 702,
-    "timeDay": 677,
+    "timeDay": 672,
     "timeWeek": 696,
-    "timeMonth": 689,
+    "timeMonth": 688,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2024-10-15": 1306,
@@ -484,7 +484,7 @@
       "2024-10-10": 1304,
       "2024-10-09": 1322,
       "2024-10-08": 1275,
-      "2024-10-07": 258
+      "2024-10-07": 206
     }
   },
   {
