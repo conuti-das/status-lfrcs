@@ -352,7 +352,7 @@
     "uptime": "84.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "28.99%",
+    "uptimeMonth": "28.98%",
     "uptimeYear": "84.86%",
     "time": 354,
     "timeDay": 116,
@@ -360,7 +360,7 @@
     "timeMonth": 189,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2024-11-06": 218,
+      "2024-11-06": 225,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
@@ -509,15 +509,15 @@
     "url": "$TESTPROCESS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mps-testprocess",
-    "status": "up",
-    "uptime": "95.58%",
-    "uptimeDay": "37.02%",
+    "status": "down",
+    "uptime": "95.59%",
+    "uptimeDay": "37.47%",
     "uptimeWeek": "20.67%",
-    "uptimeMonth": "79.15%",
-    "uptimeYear": "95.58%",
+    "uptimeMonth": "79.19%",
+    "uptimeYear": "95.59%",
     "time": 695,
-    "timeDay": 665,
-    "timeWeek": 682,
+    "timeDay": 669,
+    "timeWeek": 684,
     "timeMonth": 687,
     "timeYear": 695,
     "dailyMinutesDown": {
@@ -531,7 +531,7 @@
       "2024-10-30": 520,
       "2024-10-29": 335,
       "2024-10-28": 561,
-      "2024-10-27": 124
+      "2024-10-27": 103
     }
   },
   {
