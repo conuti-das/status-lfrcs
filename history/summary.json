@@ -60,9 +60,9 @@
     "url": "$BACKOFFICE_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cc-backoffice-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 511,
     "timeMonth": 469,
     "timeYear": 467,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-08": 0
+    }
   },
   {
     "name": "CC - BACKOFFICE WEB",
@@ -352,7 +354,7 @@
     "uptime": "83.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "22.41%",
+    "uptimeMonth": "22.39%",
     "uptimeYear": "83.68%",
     "time": 350,
     "timeDay": 99,
@@ -360,7 +362,7 @@
     "timeMonth": 175,
     "timeYear": 350,
     "dailyMinutesDown": {
-      "2024-11-08": 222,
+      "2024-11-08": 230,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
@@ -393,11 +395,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mps-sap-d1-v-konnektor-test",
     "status": "up",
-    "uptime": "70.89%",
+    "uptime": "70.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "56.84%",
-    "uptimeYear": "70.89%",
+    "uptimeYear": "70.90%",
     "time": 4460,
     "timeDay": 1519,
     "timeWeek": 1880,
@@ -511,15 +513,15 @@
     "url": "$TESTPROCESS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mps-testprocess",
-    "status": "up",
-    "uptime": "95.41%",
-    "uptimeDay": "43.84%",
-    "uptimeWeek": "20.28%",
-    "uptimeMonth": "78.02%",
-    "uptimeYear": "95.41%",
+    "status": "down",
+    "uptime": "95.42%",
+    "uptimeDay": "43.82%",
+    "uptimeWeek": "20.36%",
+    "uptimeMonth": "78.07%",
+    "uptimeYear": "95.42%",
     "time": 692,
-    "timeDay": 655,
-    "timeWeek": 668,
+    "timeDay": 653,
+    "timeWeek": 667,
     "timeMonth": 684,
     "timeYear": 692,
     "dailyMinutesDown": {
@@ -532,7 +534,7 @@
       "2024-11-02": 1403,
       "2024-11-01": 1432,
       "2024-10-31": 1170,
-      "2024-10-30": 197
+      "2024-10-30": 179
     }
   },
   {
