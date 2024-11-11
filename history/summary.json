@@ -60,9 +60,9 @@
     "url": "$BACKOFFICE_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cc-backoffice-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 452,
     "timeMonth": 463,
     "timeYear": 466,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-11": 0
+    }
   },
   {
     "name": "CC - BACKOFFICE WEB",
@@ -352,7 +354,7 @@
     "uptime": "81.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "11.15%",
+    "uptimeMonth": "11.13%",
     "uptimeYear": "81.75%",
     "time": 346,
     "timeDay": 102,
@@ -360,7 +362,7 @@
     "timeMonth": 148,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2024-11-11": 833,
+      "2024-11-11": 841,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
@@ -399,7 +401,7 @@
     "uptime": "72.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "59.98%",
+    "uptimeMonth": "60.00%",
     "uptimeYear": "72.22%",
     "time": 4452,
     "timeDay": 5203,
@@ -514,14 +516,14 @@
     "url": "$TESTPROCESS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mps-testprocess",
-    "status": "up",
-    "uptime": "97.97%",
-    "uptimeDay": "40.84%",
-    "uptimeWeek": "56.90%",
-    "uptimeMonth": "90.08%",
-    "uptimeYear": "97.97%",
+    "status": "down",
+    "uptime": "98.00%",
+    "uptimeDay": "41.39%",
+    "uptimeWeek": "57.53%",
+    "uptimeMonth": "90.23%",
+    "uptimeYear": "98.00%",
     "time": 694,
-    "timeDay": 743,
+    "timeDay": 740,
     "timeWeek": 684,
     "timeMonth": 688,
     "timeYear": 694,
@@ -531,7 +533,7 @@
       "2024-11-09": 886,
       "2024-11-08": 1031,
       "2024-11-07": 881,
-      "2024-11-06": 208
+      "2024-11-06": 144
     }
   },
   {
