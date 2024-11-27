@@ -1,7 +1,7 @@
 url: $KONNEKTOR_URL
-status: down
-code: 504
-responseTime: 10095
-lastUpdated: 2024-11-27T23:03:09.886Z
+status: up
+code: 200
+responseTime: 1444
+lastUpdated: 2024-11-27T23:07:50.425Z
 startTime: 2024-08-28T07:09:23.884Z
 generator: Upptime <https://github.com/upptime/upptime>
