@@ -69,7 +69,7 @@
     "time": 542,
     "timeDay": 421,
     "timeWeek": 467,
-    "timeMonth": 916,
+    "timeMonth": 926,
     "timeYear": 542,
     "dailyMinutesDown": {
       "2024-12-06": 17
@@ -368,7 +368,7 @@
     "timeMonth": 114,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2024-12-17": 935,
+      "2024-12-17": 943,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -441,8 +441,8 @@
     "slug": "mps-sap-d1-v-konnektor-test",
     "status": "down",
     "uptime": "78.74%",
-    "uptimeDay": "65.34%",
-    "uptimeWeek": "95.05%",
+    "uptimeDay": "64.74%",
+    "uptimeWeek": "94.96%",
     "uptimeMonth": "97.70%",
     "uptimeYear": "78.74%",
     "time": 4823,
@@ -451,7 +451,7 @@
     "timeMonth": 5477,
     "timeYear": 4823,
     "dailyMinutesDown": {
-      "2024-12-17": 499,
+      "2024-12-17": 508,
       "2024-12-05": 29,
       "2024-11-30": 44,
       "2024-11-29": 32,
@@ -571,12 +571,12 @@
     "url": "$TESTPROCESS_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mps-testprocess",
-    "status": "up",
-    "uptime": "97.03%",
-    "uptimeDay": "15.33%",
-    "uptimeWeek": "21.52%",
-    "uptimeMonth": "81.94%",
-    "uptimeYear": "97.03%",
+    "status": "down",
+    "uptime": "97.07%",
+    "uptimeDay": "15.90%",
+    "uptimeWeek": "22.58%",
+    "uptimeMonth": "82.18%",
+    "uptimeYear": "97.07%",
     "time": 692,
     "timeDay": 655,
     "timeWeek": 703,
@@ -590,7 +590,7 @@
       "2024-12-13": 1230,
       "2024-12-12": 1226,
       "2024-12-11": 1235,
-      "2024-12-10": 330
+      "2024-12-10": 223
     }
   },
   {
