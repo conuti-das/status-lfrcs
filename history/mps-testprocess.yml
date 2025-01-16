@@ -1,7 +1,7 @@
 url: $TESTPROCESS_URL
-status: up
+status: down
 code: 200
-responseTime: 463
-lastUpdated: 2025-01-16T15:01:13.752Z
+responseTime: 543
+lastUpdated: 2025-01-16T16:26:32.671Z
 startTime: 2024-06-15T15:03:54.682Z
 generator: Upptime <https://github.com/upptime/upptime>
